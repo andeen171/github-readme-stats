@@ -395,6 +395,13 @@ export const themes = {
     border_color: "85A4C0",
     bg_color: "030314",
   },
+  catppuccin: {
+    title_color: "B4BEfE",
+    text_color: "CDD6F4",
+    icon_color: "89DCEB",
+    border_color: "181825",
+    bg_color: "1E1E2E",
+  },
 };
 
 export default themes;
